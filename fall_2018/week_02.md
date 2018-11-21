@@ -1,22 +1,12 @@
 ## Last Week's Accomplishments
 
-> In this section, you can write about what you accomplished in the previous week.
-
-> Examples:
-> Bug fixes, Features added, Links to Issues, Links to Pull-Requests, Lightning Talks, Bonus Sessions
+I have met everyone in the team and know what they are interested in. I have talked to my friend, then set a general goal to learn back-end operations.
 
 ## This Week's Plan
 
-> In this section, you can write about what you have planned for next week.
-
-> Examples: New Bugs to be fixed, Design choices
+We are going to have a group meeting and make sure everyone can find work that fits, then we work in smaller group in order to work in better efficiency.
 
 ## Anything Blocking?
 
-> In this section, you can write about any blockers that you are having trouble in the project.
+Limited experience.
 
-> Examples: Confusion on how to approach a problem, Limited experience with a specific technology
-
-## Notes
-
-> This is an optional section for any sort of information that does not fall under any of the other categories.
