@@ -8,10 +8,4 @@ I joined RPICourseTrend project following the lead by a senior student who was a
 
 ## Anything Blocking?
 
-> In this section, you can write about any blockers that you are having trouble in the project.
-
-> Examples: Confusion on how to approach a problem, Limited experience with a specific technology
-
-## Notes
-
-> This is an optional section for any sort of information that does not fall under any of the other categories.
+This is the very fisrt time for me to join such open source program. And it is also the first time to work on the project in a team. I don't have many choice but learn what they write first, then optimize and write do what I can after I know what should I do next.
