@@ -4,9 +4,7 @@ This is the first week.
 
 ## This Week's Plan
 
-> In this section, you can write about what you have planned for next week.
-
-> Examples: New Bugs to be fixed, Design choices
+I joined RPICourseTrend project following the lead by a senior student who was also my mentor. I am going to get familiar with my team and know what I can do and learn this semester.
 
 ## Anything Blocking?
 
