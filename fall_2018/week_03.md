@@ -9,6 +9,3 @@ I have discussed with the leader. I am going to learn how to use crawler to get 
 ## Anything Blocking?
 
 Need time to get familier with the imported packages.
-
-## Notes
-
