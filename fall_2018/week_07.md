@@ -4,10 +4,8 @@ Successfully finished the exams.
 
 ## This Week's Plan
 
-I am going to prepare for the presentation and ask about what our front-end needs.
+Trying to fix bugs of the crawler.
 
 ## Anything Blocking?
 
-
-
-## Notes
+There are still a lot of data missing and error with the course name
