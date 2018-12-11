@@ -1,14 +1,12 @@
 ## Last Week's Accomplishments
 
-We have successfully get early data we want and store them in the database.
+We have successfully get early data.
 
 ## This Week's Plan
 
-I am going to learn things about database.
+Review the code.
 
 ## Anything Blocking?
 
-Another brand new area for me.
-
-## Notes
+The leader of back-end had no time to work with us.
 
