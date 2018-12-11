@@ -4,11 +4,8 @@ Learned and understand how it works with Ruijie's guiding, we can successfully g
 
 ## This Week's Plan
 
-We are trying to fix minor bugs and store the data.
+I am still learning the crawler program, looking for the best way for me.
 
 ## Anything Blocking?
 
 There are some cases that cannot fit into the normal data.
-
-## Notes
-
