@@ -4,6 +4,9 @@ We finish preparing for the presenstation and the future planning for the projec
 
 ## This Week's Plan
 
-Finshed up the project for this semester to help with grading process. I will uploading some learing process this semester.
+Finshed up the project for this semester to help with grading process. 
+I will uploading some learing process this semester.
 
 ## Anything Blocking?
+
+none.

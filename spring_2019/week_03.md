@@ -1,11 +1,13 @@
 ## Last Week's Accomplishments
 
-I am busy with exam reviewing.
+Successfully set everything up.
+I choose Pycharm and fix problems with the virtual environment and package errors.
 
 ## This Week's Plan
 
-I am watching others writing some codes and thinking about what I am going to do.
+I am going to review the first test and planning to do the back-end part. 
+This time I have what I learned last semester to help.
 
 ## Anything Blocking?
 
-I have little experience working on the group projects.
+Time management.
